@@ -1,6 +1,5 @@
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
-
 from yellowbrick.cluster import KElbowVisualizer
 import matplotlib.pyplot as plt
 import pandas as pd
